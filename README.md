@@ -9,7 +9,21 @@ Project Objectives
 4. Use of css display, positioning
 5. Font Styling and Typography
 6. CSS Sizing 
-7. Float and Clear 
+7. Float and Clear
+
+
+Specifications:
+Font Properties Challenge 1- Change The Colors.
+CHALLENGE: Set the text colour for the h1 and h2 to both be the colour with hex code: #66BFBF
+CHALLENGE: Set the text colour for the h3 and anchor tag to be the colour with hex code #11999E
+
+Font Properties Challenge 2- Change The Font Weight.
+CHALLENGE: Change all the h2 tags to have font weight: normal
+
+Font Properties Challenge 3- Change The Line Height.
+CHALLENGE: Change the line height of the h1 to double what it currently is: 2
+
+
 
 You can style your button however you like. Alternatively to achieve the look in the specification. You need to:
 Change the text to "Contact Me"
