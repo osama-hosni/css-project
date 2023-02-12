@@ -1,9 +1,10 @@
 # css-project
 Full Stack Web Development Boot Camp 
+Project-3:	Stylized Personal Website-CSS
 
 Project Objectives
 
-1. Make external css folder/file directory and link the backbone html index file
+1. Make an external css folder/file directory and link the backbone html index file
 2. Use Favicon
 3. Use of HTML DIVS
 4. Use of css display, positioning
